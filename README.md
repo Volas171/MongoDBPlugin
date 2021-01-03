@@ -9,6 +9,13 @@ sign up for an account here https://cloud.mongodb.com/.
 - use at your own risk.
 - performance not tested.
 - all are synchronous functions (idk how to do the async ones ;-; )
+
+### PSA
+
+- if anyone is familar with data visualisations or know how to work with mongoDB, please feel free to ping me at my discord.
+- we have lots of data, in need of visualisations. :)
+- ugly sample here: https://codepen.io/alexpvpmindustry/pen/xxEWPdy
+
 ### Setup
 
 Clone this repository first.
