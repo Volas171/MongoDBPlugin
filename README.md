@@ -1,3 +1,14 @@
+## a contribution to plugin developers (mongoDB enthusiasts)
+This plugin demonstrates a way to interact with mongoDB via installable plugins in mindustry.
+
+You need to use atlas mongodb or set up your own mongo database.
+
+sign up for an account here https://cloud.mongodb.com/.
+
+### Disclaimer
+- use at your own risk.
+- performance not tested.
+- all are synchronous functions (idk how to do the async ones ;-; )
 ### Setup
 
 Clone this repository first.
