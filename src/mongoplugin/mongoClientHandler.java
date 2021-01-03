@@ -17,7 +17,7 @@ public class mongoClientHandler {
     public MongoCollection<Document> muuid_collection;
     public MongoCollection<Document> duuid_collection;
     public MongoCollection<Document> expgains;
-    private static String secretURL = "";
+    private static String secretURL = " ";
     public void mongoClientHandler(){
         MongoClient mongoClient = MongoClients.create(secretURL);
         db = mongoClient.getDatabase("AlexMindustry");
