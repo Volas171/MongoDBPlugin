@@ -25,7 +25,7 @@ public class MongoPlugin extends Plugin{
         mCH = new mongoClientHandler();
         Events.on(PlayerJoin.class,event->{
             Player p = event.player;
-            p.sendMessage("hello, this is a test server, play at your own risk");
+            p.sendMessage("[accent]Hello, This server has a plugin that has been not tested and might be [red]unistable, [accent]play at your own risk");
             mCH.send_uuid(p);
         });
     }

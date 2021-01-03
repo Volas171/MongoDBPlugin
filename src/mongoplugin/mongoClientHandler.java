@@ -20,7 +20,7 @@ public class mongoClientHandler {
     private static String secretURL = " ";
     public void mongoClientHandler(){
         MongoClient mongoClient = MongoClients.create(secretURL);
-        db = mongoClient.getDatabase("AlexMindustry");
+        db = mongoClient.getDatabase("MindustryDB");
         muuid_collection = db.getCollection("muuid");
         duuid_collection = db.getCollection("duuid");
         expgains = db.getCollection("expgains");
