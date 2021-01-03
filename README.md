@@ -1,5 +1,6 @@
 ## A contribution to plugin developers (mongoDB enthusiasts)
 ![Build](https://github.com/alexpvpmindustry/MongoDBPlugin/workflows/Build/badge.svg)
+
 This plugin demonstrates a way to interact with mongoDB via installable plugins in mindustry.
 
 You need to use atlas mongodb or set up your own mongo database.
